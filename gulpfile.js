@@ -18,12 +18,12 @@ gulp.task('sass', function() {
 });
 
 gulp.task('php', function() {
-    php.server({ base: '../template', port: 8011, keepalive: true});
+    php.server({ base: '../dougandrusdev', port: 8012, keepalive: true});
 });
 
 gulp.task('browser-sync',['php'], function() {
     browserSync({
-        proxy: '127.0.0.1:8011',
+        proxy: '127.0.0.1:8012',
         port: 8080,
         open: true,
         notify: false
