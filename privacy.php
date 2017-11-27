@@ -10,6 +10,11 @@
 	$siteTitle = source::getTitle();
 	$app = source::getApplication();
 	$company = source::getTitle();
+
+	$URL_strip1 = str_replace('http://', '', $siteURL); // removes http
+	$URL_strip2 = str_replace('https://', '', $URL_strip1); //removes https
+	$URL_stripped = str_replace('/', '', $URL_strip2); //removes trailing slash
+
 ?>
 <head>
 
@@ -26,7 +31,7 @@
 		<div>
 				<h1 style="margin-top: 0px;" class="margin-sm margin-tb-xl">Privacy Policy</h1>
 
-			<p class="margin-sm margin-tb-lg">This privacy notice discloses the privacy practices for <?php echo $company; ?>. This privacy notice applies solely to information collected by this website. It will notify you of the following:</p>
+			<p class="margin-sm margin-tb-lg">This privacy notice discloses the privacy practices for <?php echo $URL_stripped; ?>. This privacy notice applies solely to information collected by this website. It will notify you of the following:</p>
 
 			<ul class="margin-sm">
 				<li>What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.</li>

@@ -20,79 +20,6 @@
 								2 CPM bonus on top of their base rate for the first six months.<p>
 							</div>
 						</div>
-					  <div class="container width-1200 flex wrap">
-
-		            <div class="flex margin-lg flex-column-sm">
-										<h2 class="margin-lg margin-tb-sm text-left">The Pay</h2>
-										<h6 class="margin-lg margin-tb-sm text-left">Our drivers earn an average of $1,100 a week!</h6>
-		                <p class="margin-lg margin-tb-sm text-left">Pay based on driving experience</p>
-										<h6 class="margin-lg margin-tb-sm text-left">Bonuses</h2>
-		                <ul class="margin-tb-sm margin-md">
-		                    <li class="margin-tb-md text-left">
-		                        Safety - 1 CPM, based on incident-free driving
-		                    </li>
-		                    <li class="margin-tb-md text-left">
-		                        Mileage - 0 to 2 CPM, based on level of miles*
-		                    </li>
-		                    <li class="margin-tb-md text-left">
-		                        Fuel - 0 to 2 CPM, based on fuel efficiency*
-		                    </li>
-												<en style="font-style: italic;">* All new drivers get a guaranteed 2 CPM bonus for their first six months.</en>
-		                </ul>
-										<h2 class="margin-lg margin-tb-sm margin-t-xl text-left">The Benefits</h2>
-										<ul class="margin-tb-sm margin-md">
-												<li class="margin-tb-xs text-left">
-													Low-Cost Health Plan with BlueCross of Idaho - from $30/month for single coverage to $456/month for large families
-												</li>
-												<li class="margin-tb-md text-left">
-													Many Supplemental Benefits - dental, vision, life, and flexible spending
-												</li>
-												<li class="margin-tb-md text-left">
-													Money for Retirement - a program to help you automatically save
-												</li>
-												<li class="margin-tb-md text-left">
-													Paid Time Off - vacation and holidays
-												</li>
-										</ul>
-		            </div>
-		            <div class="flex margin-lg flex-column-sm">
-
-									<h2 class="margin-lg margin-tb-sm text-left">The Drive</h2>
-									<ul class="margin-tb-sm margin-md">
-											<li class="margin-tb-xs text-left">
-												Late Model Trucks - Freightliners and Peterbilts
-											</li>
-											<li class="margin-tb-md text-left">
-												Very Reliable Miles - 2,800 to 3,200 a week (average haul is 1,250 miles)
-											</li>
-											<li class="margin-tb-md text-left">
-												Mostly No-Touch Freight - You'll drive, not load.
-											</li>
-											<li class="margin-tb-md text-left">
-												Rider Program - Take your family on your route.
-											</li>
-											<li class="margin-tb-md text-left">
-												Home Time - 1 day home for every 7 out (average time out is 8 days)
-											</li>
-									</ul>
-									<h2 class="margin-lg margin-tb-sm margin-t-xl text-left">The Training</h2>
-									<p class="margin-lg margin-tb-sm text-left">For Recent CDL Graduates</p>
-									<ul class="margin-tb-sm margin-md">
-											<li class="margin-tb-xs text-left">
-												Comprehensive Instruction - with a certified trainer
-											</li>
-											<li class="margin-tb-md text-left">
-												6 Weeks - 2 local and 4 OTR
-											</li>
-											<li class="margin-tb-md text-left">
-												Training Pay - $75/day
-											</li>
-											<li class="margin-tb-md text-left">
-												Guaranteed Starting Rate - 34 CPM for the first six months
-											</li>
-									</ul>
-		            </div>
-		        </div>
 		    </section>
 
 		    <section id="form" class="container full-width primary-bg centered-contents padding-tb-xl flex margin-tb-lg flex-column">
@@ -120,8 +47,6 @@
 					    <iframe  src="https://www.youtube.com/embed/8BRWESBwOt0" frameborder="0" allowfullscreen></iframe>
 					    </div>
 						</div>
-
-
 
 		    </section>
 				<?php include ('assets/includes/footer.php'); ?>

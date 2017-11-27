@@ -1,5 +1,5 @@
 <div class="container full-width text-center">
-	<h2 class="margin-sm">Be Contacted</h2>
+	<h2 class="margin-sm form-title">Be Contacted</h2>
 </div>
 <div class="container width-1200 flex wrap">
 		<div class="flex margin-lg flex-column-sm">
